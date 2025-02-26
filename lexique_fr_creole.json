@@ -18,6 +18,15 @@
         ],
         "contexte": []
     },
+    "je": { 
+        "traductions": ["Mo"],
+        "contexte": []
+    },
+    "tu": { 
+        "traductions": ["To"],
+        "contexte": []
+
+    },
     "À ce moment-là, alors": {
         "traductions": [
             "Lò-la"
@@ -3545,6 +3554,34 @@
             "Tèbè, abèbè, kòkòdò, abòzò"
         ],
         "contexte": []
+    },
+    "Vous": { 
+        "traductions": ["Zot"],
+        "contexte": [ ]
+    },
+    "Il ou elle": { 
+        "traductions": ["i"],
+        "contexte": [ ]
+    },
+    "bonjour": { 
+        "traductions": ["bonjou"],
+        "contexte": [ ]
+    },
+    "Merci": { 
+        "traductions": ["Grémési"],
+        "contexte": [ ]
+    },
+    "Viens": { 
+        "traductions": ["Vini"],
+        "contexte": [ ]
+    },
+    "école": { 
+        "traductions": ["lékol"],
+        "contexte": [ ]
+    },
+    "Fesses": { 
+        "traductions": ["gogo"],
+        "contexte": [ ]
     },
     "Slip local": {
         "traductions": [
